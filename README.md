@@ -20,6 +20,6 @@ This project contains my solutions for the Deloitte Data Analytics Job Simulatio
 
 ## 📁 Project Files
 
-- 📊 [Download Sample Dataset](./sales_data_sample.xlsx)
+- 📊 [Equality_Table Dataset](Equality_Table_Completed.xlsx..xlsx)
 - 🖼️ [View Dashboard Screenshot](./sales_dashboard.png)
 - 📄 [Read Project Summary Report](./deloitte_project_summary.pdf)
