@@ -10,7 +10,7 @@ This project contains my solutions for the Deloitte Data Analytics Job Simulatio
 
 ## 🔧 Tools Used
 - Microsoft Excel
-- Power BI
+- Tableau
 - Data Storytelling
 - Business Analysis
 
@@ -18,7 +18,8 @@ This project contains my solutions for the Deloitte Data Analytics Job Simulatio
 - ID: sgJzoP8W6wN7xrzRp
 - [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_WE2fsGXBA9PQifaKR_1751888475811_completion_certificate.pdf)
 
-## 📂 Coming Soon
-- Sample dataset (dummy)
-- Dashboard screenshots
-- Summary report (PDF)
+## 📁 Project Files
+
+- 📊 [Download Sample Dataset](./sales_data_sample.xlsx)
+- 🖼️ [View Dashboard Screenshot](./sales_dashboard.png)
+- 📄 [Read Project Summary Report](./deloitte_project_summary.pdf)
